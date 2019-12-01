@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Trapezium",
+            "request": "launch",
+            "mainClass": "Trapezium",
+            "projectName": "trapazium_6bcc1224"
+        }
+    ]
+}
